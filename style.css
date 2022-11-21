@@ -1,0 +1,32 @@
+body
+{
+background-image:url("fond\ d\'ecran.gif") ;
+background-repeat: no-repeat;
+background-size: cover;
+}
+#center
+{
+text-align: center;
+border: 1px solid black;
+padding: 15px;
+background-color: lightblue;
+}
+#text
+{
+    text-align: center;
+    padding: 15px;
+    background-color: lightblue;
+    }
+#text2
+{
+    padding: 15px;
+    background-color: lightblue;
+    }
+#end{
+text-align: center;
+}
+label {
+    padding-right: 10px;
+    font-size: 1rem;
+    }
+    
